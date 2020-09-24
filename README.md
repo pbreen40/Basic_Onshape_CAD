@@ -8,4 +8,5 @@
 ## Caster Fork
 ### This was super easy and simple. Almost everything translates directly from Solidworks to Onshape. 10/10 transition.
 
-
+## Caster Tire
+### This really cemented my tranistion from Solidworks to Onshape, honestly I think this was easier in Onshape than Solidworks. Everything was super simple and made sense, I really understood what I was doing compared to Solidworks. I also learned how to change the color and I'm pretty sure it was a lot simpler than in Solidworks because I really only had to click like twice.
