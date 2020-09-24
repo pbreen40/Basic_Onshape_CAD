@@ -10,3 +10,6 @@
 
 ## Caster Tire
 ### This really cemented my tranistion from Solidworks to Onshape, honestly I think this was easier in Onshape than Solidworks. Everything was super simple and made sense, I really understood what I was doing compared to Solidworks. I also learned how to change the color and I'm pretty sure it was a lot simpler than in Solidworks because I really only had to click like twice.
+
+## Caster Wheel
+### This part was pretty cool. I remember when I first made this for Engineering 1 I had some troubles with the sketch and getting everything right. I also had some problems this time, but that was on me. I forgot one key dimension when I was watching the video the first time but I realized it a couple minutes later. I like that we don't have to make everything close geometry, same thing with the face wide fillets. Even though that is a feature in Solidworks, it's cool that it's also on Onshape. 
