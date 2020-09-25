@@ -16,5 +16,9 @@
 
 ## Caster Axle, Collar, and Bearings
 ### Each on of these was super simple and quick which I enjoyed. For the axle and collar I think it's really cool that we can select which parts are affected by the extrusion. We also used some interesting technique to avoid using dimensions to constrain something. I can defenitely see that being useful for bigger and more complicated projects. When we added the bearing to the wheel, I enjoyed the simplicity of using the "Use" tool when sketching and extruding off of a previous sketch. 
+
 ## Caster Sub-Assembly
 ### This was the first time I've ever used Onshapes mates. Personally, I'm not a fan. It's difficult to know what you want to select. I assume that I will get better with this over time, but it felt very different.
+
+## Caster Assembly
+### At the begining I was having a tough time with mates, but it's slowly growing on me. I kept messing up the mates for the set screws, I was getting a lot of errors/issues but I finally figured it out. Adding bolts and nuts seems much easier than in Solidworks. 
