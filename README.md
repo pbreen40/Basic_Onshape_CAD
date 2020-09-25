@@ -13,3 +13,6 @@
 
 ## Caster Wheel
 ### This part was pretty cool. I remember when I first made this for Engineering 1 I had some troubles with the sketch and getting everything right. I also had some problems this time, but that was on me. I forgot one key dimension when I was watching the video the first time but I realized it a couple minutes later. I like that we don't have to make everything close geometry, same thing with the face wide fillets. Even though that is a feature in Solidworks, it's cool that it's also on Onshape. 
+
+## Caster Axle, Collar, and Bearings
+### Each on of these was super simple and quick which I enjoyed. For the axle and collar I think it's really cool that we can select which parts are affected by the extrusion. We also used some interesting technique to avoid using dimensions to constrain something. I can defenitely see that being useful for bigger and more complicated projects. When we added the bearing to the wheel, I enjoyed the simplicity of using the "Use" tool when sketching and extruding off of a previous sketch. 
