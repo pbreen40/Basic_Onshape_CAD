@@ -22,3 +22,6 @@
 
 ## Caster Assembly
 ### At the begining I was having a tough time with mates, but it's slowly growing on me. I kept messing up the mates for the set screws, I was getting a lot of errors/issues but I finally figured it out. Adding bolts and nuts seems much easier than in Solidworks. 
+
+## Dorothy's Dowel Pins
+### This was actually a lot of fun, I think I learned a lot doing this by my self rather than relying on a video. I messed up some of my relations in the begining when I was making the panels of wood for the frame, but I managed to fix it in a couple minutes. After that it was just smooth sailing!
