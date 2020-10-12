@@ -25,3 +25,6 @@
 
 ## Dorothy's Dowel Pins
 ### This was actually a lot of fun, I think I learned a lot doing this by my self rather than relying on a video. I messed up some of my relations in the begining when I was making the panels of wood for the frame, but I managed to fix it in a couple minutes. After that it was just smooth sailing!
+
+## Onshape Challenge
+### This was a lot of fun, like last time, doing it by my self made me feel more confident in my Onshape abilities. I had some trouble figuring out how to mater everything but I tried using a cylindrical mate and it worked perfectly.  
